@@ -1,11 +1,10 @@
 # Gradient Decent
-This is a first order optimization method for solving single $$min()$$ or $$max()$$ of single varient functions.
+This is a first order optimization method for solving single _min()_ or _max()_ of single varient functions.
 
-e.g., 
 $$min f(x), \forall x\in \mathbb{R}$$
 
 ## Why?
 
-Becuase we want to minimize the cost/loss functions o0f our neural network.
+Becuase we want to minimize the cost/loss functions of our neural network.
 
-
+## Example Function
